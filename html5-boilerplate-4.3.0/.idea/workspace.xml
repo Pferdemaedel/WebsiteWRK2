@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afe29902-b843-46d4-b76c-370391c063f1" name="Default" comment="" />
+    <ignored path="html5-boilerplate-4.3.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="html5-boilerplate-4.3.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="aboutRugby.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/aboutRugby.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="0" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1496">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainingMen.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/trainingMen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="122" column="14" selection-start="2840" selection-end="5825" vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="2210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainingWomen.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/trainingWomen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="122" column="14" selection-start="5801" selection-end="5801" vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="2210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_commonstyles.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass-test/partials/_commonstyles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="17" selection-start="141" selection-end="141" vertical-scroll-proportion="0.19767442" vertical-offset="0" max-vertical-offset="516">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass-test/sass/screen.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass-test/partials/_footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass-test/partials/_header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_menu.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass-test/partials/_menu.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_navigation.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass-test/partials/_navigation.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="2" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="662" max-vertical-offset="1700">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainingChildren.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/trainingChildren.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="16" selection-start="5213" selection-end="5213" vertical-scroll-proportion="0.0" vertical-offset="1042" max-vertical-offset="1666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sass-test/stylesheets/screen.css" />
+        <option value="$PROJECT_DIR$/sass-test/html/contact.html" />
+        <option value="$PROJECT_DIR$/sass-test/sass/screen.scss" />
+        <option value="$PROJECT_DIR$/sass-test/partials/_menu.scss" />
+        <option value="$PROJECT_DIR$/html/navigation.html" />
+        <option value="$PROJECT_DIR$/sass-test/partials/_navigation.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/html/events.html" />
+        <option value="$PROJECT_DIR$/html/verbandsleague.html" />
+        <option value="$PROJECT_DIR$/html/training.html" />
+        <option value="$PROJECT_DIR$/html/schedule.html" />
+        <option value="$PROJECT_DIR$/html/regionalleague.html" />
+        <option value="$PROJECT_DIR$/html/impressum.html" />
+        <option value="$PROJECT_DIR$/html/contact.html" />
+        <option value="$PROJECT_DIR$/html/amateurleague.html" />
+        <option value="$PROJECT_DIR$/html/sponsors.html" />
+        <option value="$PROJECT_DIR$/html/team.html" />
+        <option value="$PROJECT_DIR$/html/aboutUs.html" />
+        <option value="$PROJECT_DIR$/html/trainingChildren.html" />
+        <option value="$PROJECT_DIR$/html/trainingMen.html" />
+        <option value="$PROJECT_DIR$/html/trainingWomen.html" />
+        <option value="$PROJECT_DIR$/html/aboutRugby.html" />
+        <option value="$PROJECT_DIR$/html/goals.html" />
+        <option value="$PROJECT_DIR$/html/rulesRugby.html" />
+        <option value="$PROJECT_DIR$/sass-test/partials/_header.scss" />
+        <option value="$PROJECT_DIR$/sass-test/partials/_commonstyles.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\flexslider" />
+      <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\js" />
+      <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\flexslider" />
+      <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afe29902-b843-46d4-b76c-370391c063f1" name="Default" comment="" />
+      <created>1388693155534</created>
+      <updated>1388693155534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28776434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295082" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20278184" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="23" selection-start="2950" selection-end="2950" vertical-scroll-proportion="0.0" vertical-offset="723" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="41" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.0" vertical-offset="859" max-vertical-offset="1496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/goals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/verbandsleague.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="48" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="10" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="2023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/aboutUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="48" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="554" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/rulesRugby.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="92" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="45" selection-start="1751" selection-end="1751" vertical-scroll-proportion="0.0" vertical-offset="419" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/flexslider/demo/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="36" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="50" selection-start="2269" selection-end="2269" vertical-scroll-proportion="-187.0" vertical-offset="459" max-vertical-offset="9469" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9061" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2771" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/stylesheets/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="0.24156305" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/flexslider/demo/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/sass/ie.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="7" selection-start="1434" selection-end="1569" vertical-scroll-proportion="0.53521127" vertical-offset="210" max-vertical-offset="2023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/verbandsleague.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-6.6153846" vertical-offset="253" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/training.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="14" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-11.538462" vertical-offset="125" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/regionalleague.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-10.807693" vertical-offset="144" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="35" selection-start="1121" selection-end="1121" vertical-scroll-proportion="-7.9615383" vertical-offset="252" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/amateurleague.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="3" selection-start="915" selection-end="1054" vertical-scroll-proportion="-10.423077" vertical-offset="86" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="35" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.61308414" vertical-offset="131" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.7757009" vertical-offset="10" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="13" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.39439252" vertical-offset="214" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="23" selection-start="2950" selection-end="2950" vertical-scroll-proportion="0.0" vertical-offset="723" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="41" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.0" vertical-offset="859" max-vertical-offset="1496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/aboutUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="390" selection-start="3286" selection-end="3286" vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="1343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/trainingChildren.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="16" selection-start="5213" selection-end="5213" vertical-scroll-proportion="0.0" vertical-offset="1042" max-vertical-offset="1666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/trainingMen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="14" selection-start="2840" selection-end="5825" vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/trainingWomen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="14" selection-start="5801" selection-end="5801" vertical-scroll-proportion="0.0" vertical-offset="1594" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/aboutRugby.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.0" vertical-offset="1045" max-vertical-offset="1496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/goals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="43" selection-start="5193" selection-end="5193" vertical-scroll-proportion="0.0" vertical-offset="1284" max-vertical-offset="1887" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/rulesRugby.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="43" selection-start="5276" selection-end="5276" vertical-scroll-proportion="-39.346153" vertical-offset="983" max-vertical-offset="3196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="2" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="662" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/sass/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_commonstyles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="141" selection-end="141" vertical-scroll-proportion="0.19767442" vertical-offset="0" max-vertical-offset="516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
