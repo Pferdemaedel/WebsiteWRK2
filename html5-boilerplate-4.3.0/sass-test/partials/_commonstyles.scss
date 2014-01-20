@@ -1,5 +1,7 @@
 html {
   body {
+    font-family: Arial;
+    font-size: 1.0em;
     background-color: rgba(255, 234, 206, 0.58);
     .head {
       color:#fff;
@@ -15,6 +17,18 @@ html {
         padding-left: 16em;
         margin-top:-1.5em;
       }
+      h5 {
+        font-size:0.8em;
+      }
+    }
+    h4 {
+      font-size: 3.0em;
+    }
+    h5 {
+      font-size: 2.0em;
+    }
+    h6 {
+      font-size: 1.7em;
     }
   }
 }

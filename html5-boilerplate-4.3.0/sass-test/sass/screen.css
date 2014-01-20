@@ -3,6 +3,8 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 html body {
+  font-family: Arial;
+  font-size: 1.0em;
   background-color: rgba(255, 234, 206, 0.58); }
   html body .head {
     color: #fff;
@@ -16,6 +18,14 @@ html body {
     html body .head h5 {
       padding-left: 16em;
       margin-top: -1.5em; }
+    html body .head h5 {
+      font-size: 0.8em; }
+  html body h4 {
+    font-size: 3.0em; }
+  html body h5 {
+    font-size: 2.0em; }
+  html body h6 {
+    font-size: 1.7em; }
 
 nav {
   width: 960px; }
