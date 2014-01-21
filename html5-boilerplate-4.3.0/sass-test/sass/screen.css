@@ -5,7 +5,19 @@
 html body {
   font-family: Arial;
   font-size: 1.0em;
-  background-color: rgba(255, 234, 206, 0.58); }
+  background-color: rgba(255, 234, 206, 0.58);
+  /*  .flexslider {
+      .slides {
+        li {
+          list-style-type: none;
+          padding: 3em;
+          img {
+            max-width: 900px;
+            height: auto;
+          }
+        }
+      }
+    }*/ }
   html body .head {
     color: #fff;
     background-color: #000;
@@ -28,7 +40,8 @@ html body {
     font-size: 1.7em; }
 
 nav {
-  width: 960px; }
+  width: 960px;
+  margin: 5% 0 5% 20%; }
 
 nav ul {
   padding: 0px;

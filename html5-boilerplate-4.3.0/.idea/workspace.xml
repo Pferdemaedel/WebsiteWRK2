@@ -53,43 +53,16 @@
       <file leaf-file-name="_commonstyles.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass-test/partials/_commonstyles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="24" selection-start="411" selection-end="411" vertical-scroll-proportion="-9.038462" vertical-offset="105" max-vertical-offset="663">
+            <state line="41" column="9" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="317" max-vertical-offset="867">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="demo.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flexslider/demo/css/demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="7" selection-start="1434" selection-end="1569" vertical-scroll-proportion="0.528827" vertical-offset="210" max-vertical-offset="2023">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass-test/partials/_footer.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass-test/partials/_header.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_menu.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass-test/partials/_menu.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+            <state line="236" column="31" selection-start="10197" selection-end="10203" vertical-scroll-proportion="0.0" vertical-offset="3853" max-vertical-offset="6290">
               <folding />
             </state>
           </provider>
@@ -98,7 +71,7 @@
       <file leaf-file-name="_navigation.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass-test/partials/_navigation.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="2" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1700">
+            <state line="2" column="22" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -108,6 +81,33 @@
         <entry file="file://$PROJECT_DIR$/html/trainingChildren.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="89" column="16" selection-start="5213" selection-end="5213" vertical-scroll-proportion="0.0" vertical-offset="1042" max-vertical-offset="1666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thumbnail-controlnav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flexslider/demo/thumbnail-controlnav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="37" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="2448">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-carousel.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flexslider/demo/basic-carousel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="106" column="2" selection-start="3016" selection-end="3024" vertical-scroll-proportion="-0.87529975" vertical-offset="2167" max-vertical-offset="2584">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic-carousel1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic-carousel1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="138" column="7" selection-start="4091" selection-end="4091" vertical-scroll-proportion="-74.26923" vertical-offset="415" max-vertical-offset="2448">
               <folding />
             </state>
           </provider>
@@ -128,8 +128,6 @@
         <option value="$PROJECT_DIR$/sass-test/sass/screen.scss" />
         <option value="$PROJECT_DIR$/sass-test/partials/_menu.scss" />
         <option value="$PROJECT_DIR$/html/navigation.html" />
-        <option value="$PROJECT_DIR$/sass-test/partials/_navigation.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/events.html" />
         <option value="$PROJECT_DIR$/html/verbandsleague.html" />
         <option value="$PROJECT_DIR$/html/training.html" />
@@ -148,7 +146,12 @@
         <option value="$PROJECT_DIR$/html/goals.html" />
         <option value="$PROJECT_DIR$/html/rulesRugby.html" />
         <option value="$PROJECT_DIR$/sass-test/partials/_header.scss" />
+        <option value="$PROJECT_DIR$/sass-test/partials/_navigation.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/basic-carousel.html" />
         <option value="$PROJECT_DIR$/sass-test/partials/_commonstyles.scss" />
+        <option value="$PROJECT_DIR$/basic-carousel1.html" />
+        <option value="$PROJECT_DIR$/flexslider/demo/basic-carousel.html" />
       </list>
     </option>
   </component>
@@ -217,6 +220,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexslider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexslider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html5-boilerplate-4.3.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexslider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -226,15 +301,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandra\Documents\WRK\html5-boilerplate-4.3.0" />
       <recent name="C:\Users\Sandra\Documents\WRK\html5-boilerplate-4.3.0\img" />
       <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\flexslider" />
       <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\js" />
       <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sandra\Documents\WRK\html5-boilerplate-4.3.0" />
       <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test\flexslider" />
       <recent name="C:\Users\Sandra\Downloads\html5-boilerplate-4.3.0\html5-boilerplate-4.3.0\sass-test" />
     </key>
@@ -256,6 +337,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="afe29902-b843-46d4-b76c-370391c063f1" name="Default" comment="" />
@@ -264,16 +362,36 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16808149" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2968278" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3013595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -281,11 +399,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.040885862" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -303,9 +421,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20278184" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -325,26 +443,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/sponsors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="23" selection-start="2950" selection-end="2950" vertical-scroll-proportion="0.0" vertical-offset="723" max-vertical-offset="1326" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="41" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.0" vertical-offset="859" max-vertical-offset="1496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/goals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/verbandsleague.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="48" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1190" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="10" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="2023" />
@@ -375,7 +473,7 @@
         <state line="38" column="45" selection-start="1751" selection-end="1751" vertical-scroll-proportion="0.0" vertical-offset="419" max-vertical-offset="1292" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass-test/flexslider/demo/js/demo.js">
+    <entry file="file://$PROJECT_DIR$/flexslider/demo/js/demo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
@@ -450,7 +548,7 @@
         <state line="8" column="0" selection-start="343" selection-end="343" vertical-scroll-proportion="0.24156305" vertical-offset="0" max-vertical-offset="563" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass-test/flexslider/demo/js/demo.js">
+    <entry file="file://$PROJECT_DIR$/flexslider/demo/js/demo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
       </provider>
@@ -541,37 +639,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass-test/partials/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass-test/partials/_menu.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass-test/partials/_navigation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="2" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="662" max-vertical-offset="1700">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass-test/sass/screen.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass-test/partials/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/aboutRugby.html">
@@ -588,16 +671,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass-test/partials/_commonstyles.scss">
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_navigation.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="24" selection-start="411" selection-end="411" vertical-scroll-proportion="-9.038462" vertical-offset="105" max-vertical-offset="663">
+        <state line="2" column="22" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexslider/demo/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="31" selection-start="10197" selection-end="10203" vertical-scroll-proportion="0.0" vertical-offset="3853" max-vertical-offset="6290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexslider/demo/thumbnail-controlnav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="37" selection-start="279" selection-end="279" vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="2448">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="7" selection-start="1434" selection-end="1569" vertical-scroll-proportion="0.528827" vertical-offset="210" max-vertical-offset="2023">
+        <state line="21" column="0" selection-start="1127" selection-end="1127" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="2125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-test/partials/_commonstyles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="9" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="317" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-carousel1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="7" selection-start="4091" selection-end="4091" vertical-scroll-proportion="-74.26923" vertical-offset="415" max-vertical-offset="2448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flexslider/demo/basic-carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="2" selection-start="3016" selection-end="3024" vertical-scroll-proportion="-0.87529975" vertical-offset="2167" max-vertical-offset="2584">
           <folding />
         </state>
       </provider>

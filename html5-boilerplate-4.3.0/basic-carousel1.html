@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta content="charset=utf-8">
+	<title>FlexSlider 2</title>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+
+  <!-- Demo CSS -->
+	<link rel="stylesheet" href="flexslider/demo/css/demo.css" type="text/css" media="screen"/>
+	<link rel="stylesheet" href="flexslider/flexslider.css" type="text/css" media="screen"/>
+
+	<!-- Modernizr -->
+  <script src="flexslider/demo/js/modernizr.js"></script>
+
+</head>
+<body class="loading">
+
+  <div id="container" class="cf">
+    <header role="navigation">
+      <a class="logo" href="http://www.woothemes.com" title="WooThemes">
+        <img src="flexslider/images/logo.png" alt="WooThemes"/>
+	  </a>
+      <h1>FlexSlider 2</h1>
+      <h2>The best responsive slider. Period.</h2>
+      <a class="button green" href="https://github.com/woothemes/FlexSlider/zipball/master">Download Flexslider</a>
+      <h3 class="header-nav">Other Examples</h3>
+      <nav>
+        <ul>
+          <li><a href="index.html">Basic Slider</a></li>
+        </ul>
+      </nav>
+    </header>
+
+	<div id="main" role="main">
+      <section class="slider">
+        <div class="flexslider carousel">
+          <ul class="slides">
+            <li>
+  	    	    <img src="img/rugby2.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby4.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby3.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby1.png"/>
+  	    		</li>
+            <li>
+  	    	    <img src="img/rugby2.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby4.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby3.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby1.png"/>
+  	    		</li>
+            <li>
+  	    	    <img src="img/rugby2.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby4.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby3.png"/>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="img/rugby1.png"/>
+  	    		</li>
+          </ul>
+        </div>
+      </section>
+      <aside>
+        <div class="cf">
+          <h3>Basic Carousel</h3>
+          <ul class="toggle cf">
+            <li class="js"><a href="#view-js">JS</a></li>
+            <li class="html"><a href="#view-html">HTML</a></li>
+          </ul>
+        </div>
+        <div id="view-js" class="code">
+          <pre class="brush: js; toolbar: false; gutter: false;">
+            $(window).load(function() {
+              $('.flexslider').flexslider({
+                animation: "slide",
+                animationLoop: false,
+                itemWidth: 800,
+                itemMargin: 40
+              });
+            });
+          </pre>
+        </div>
+      </aside>
+    </div>
+
+  </div>
+
+  <!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="flexslider/demo/js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+
+  <!-- FlexSlider -->
+  <script defer src="flexslider/jquery.flexslider.js"></script>
+
+  <script type="text/javascript">
+    jQuery(function(){
+      SyntaxHighlighter.all();
+    });
+    jQuery(window).load(function(){
+        jQuery('.flexslider').flexslider({
+        animation: "slide",
+        animationLoop: false,
+        itemWidth: 210,
+        itemMargin: 5,
+        pausePlay: true,
+        start: function(slider){
+            jQuery('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+
+
+  <!-- Syntax Highlighter -->
+  <script type="text/javascript" src="flexslider/demo/js/shCore.js"></script>
+  <script type="text/javascript" src="flexslider/demo/js/shBrushXml.js"></script>
+  <script type="text/javascript" src="flexslider/demo/js/shBrushJScript.js"></script>
+
+  <!-- Optional FlexSlider Additions -->
+  <script src="flexslider/demo/js/jquery.easing.js"></script>
+  <script src="flexslider/demo/js/jquery.mousewheel.js"></script>
+  <script defer src="flexslider/demo/js/demo.js"></script>
+
+</body>
+</html>

@@ -5,7 +5,7 @@
 /* line 2, ../partials/_commonstyles.scss */
 html body {
   font-family: Arial;
-  font-size: 0.8em;
+  font-size: 1.0em;
   background-color: rgba(255, 234, 206, 0.58);
 }
 /* line 6, ../partials/_commonstyles.scss */
@@ -26,19 +26,46 @@ html body .head h5 {
   padding-left: 16em;
   margin-top: -1.5em;
 }
+/* line 20, ../partials/_commonstyles.scss */
+html body .head h5 {
+  font-size: 0.8em;
+}
+/* line 24, ../partials/_commonstyles.scss */
+html body h4 {
+  font-size: 3.0em;
+}
+/* line 27, ../partials/_commonstyles.scss */
+html body h5 {
+  font-size: 2.0em;
+}
+/* line 30, ../partials/_commonstyles.scss */
+html body h6 {
+  font-size: 1.7em;
+}
+/* line 35, ../partials/_commonstyles.scss */
+html body .flexslider .slides li {
+  list-style-type: none;
+  padding: 3em;
+}
+/* line 38, ../partials/_commonstyles.scss */
+html body .flexslider .slides li img {
+  max-width: 900px;
+  height: auto;
+}
 
 /* line 1, ../partials/_navigation.scss */
 nav {
   width: 960px;
+  margin: 5% 0 5% 20%;
 }
 
-/* line 4, ../partials/_navigation.scss */
+/* line 5, ../partials/_navigation.scss */
 nav ul {
   padding: 0px;
   margin: 0px;
 }
 
-/* line 8, ../partials/_navigation.scss */
+/* line 9, ../partials/_navigation.scss */
 nav ul:after {
   clear: both;
   content: " ";
@@ -48,18 +75,18 @@ nav ul:after {
   visibility: hidden;
 }
 
-/* line 16, ../partials/_navigation.scss */
+/* line 17, ../partials/_navigation.scss */
 nav ul, nav ul li {
   background-color: #FAFAFA;
 }
 
-/* line 19, ../partials/_navigation.scss */
+/* line 20, ../partials/_navigation.scss */
 nav ul li {
   list-style: none;
   float: left;
 }
 
-/* line 23, ../partials/_navigation.scss */
+/* line 24, ../partials/_navigation.scss */
 nav ul li a {
   text-decoration: none;
   display: block;
@@ -67,12 +94,12 @@ nav ul li a {
   padding: 14px 34px 14px 34px;
 }
 
-/* line 29, ../partials/_navigation.scss */
+/* line 30, ../partials/_navigation.scss */
 nav ul li:hover > ul {
   visibility: visible;
 }
 
-/* line 32, ../partials/_navigation.scss */
+/* line 33, ../partials/_navigation.scss */
 nav ul li ul {
   display: inline;
   visibility: hidden;
@@ -80,17 +107,17 @@ nav ul li ul {
   padding: 0px;
 }
 
-/* line 38, ../partials/_navigation.scss */
+/* line 39, ../partials/_navigation.scss */
 nav ul li ul li {
   float: none;
 }
 
-/* line 41, ../partials/_navigation.scss */
+/* line 42, ../partials/_navigation.scss */
 nav ul li ul li a:hover {
   color: #333;
 }
 
-/* line 47, ../partials/_navigation.scss */
+/* line 48, ../partials/_navigation.scss */
 nav ul {
   padding: 0px;
   margin: 0px;
@@ -99,14 +126,14 @@ nav ul {
   -webkit-box-shadow: 2px 2px 2px #dfdfdf;
 }
 
-/* line 55, ../partials/_navigation.scss */
+/* line 56, ../partials/_navigation.scss */
 nav ul li {
   list-style: none;
   float: left;
   border-right: 1px solid #dfdfdf;
 }
 
-/* line 60, ../partials/_navigation.scss */
+/* line 61, ../partials/_navigation.scss */
 nav ul li a {
   text-decoration: none;
   display: block;
@@ -122,42 +149,42 @@ nav ul li a {
   /* opera */
 }
 
-/* line 71, ../partials/_navigation.scss */
+/* line 72, ../partials/_navigation.scss */
 nav ul li.cat1:hover a, nav ul li.cat1:hover > ul li a {
   background-color: #E6DD00;
 }
 
-/* line 74, ../partials/_navigation.scss */
+/* line 75, ../partials/_navigation.scss */
 nav ul li.cat2:hover a, nav ul li.cat2:hover > ul li a {
   background-color: #8CB302;
 }
 
-/* line 77, ../partials/_navigation.scss */
+/* line 78, ../partials/_navigation.scss */
 nav ul li.cat3:hover a, nav ul li.cat3:hover > ul li a {
   background-color: #008C74;
 }
 
-/* line 80, ../partials/_navigation.scss */
+/* line 81, ../partials/_navigation.scss */
 nav ul li.cat4:hover a, nav ul li.cat4:hover > ul li a {
   background-color: #004C66;
 }
 
-/* line 83, ../partials/_navigation.scss */
+/* line 84, ../partials/_navigation.scss */
 nav ul li.cat5:hover a, nav ul li.cat5:hover > ul li a {
   background-color: #332B40;
 }
 
-/* line 86, ../partials/_navigation.scss */
+/* line 87, ../partials/_navigation.scss */
 nav ul li:hover > a {
   color: #FAFAFA;
 }
 
-/* line 89, ../partials/_navigation.scss */
+/* line 90, ../partials/_navigation.scss */
 nav ul li ul li a {
   color: #FAFAFA;
 }
 
-/* line 92, ../partials/_navigation.scss */
+/* line 93, ../partials/_navigation.scss */
 nav ul li ul li a:hover {
   color: #333;
   background-color: #FAFAFA !important;
